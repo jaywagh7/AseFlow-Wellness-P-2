@@ -1,0 +1,27 @@
+{
+  "name": "aseflow-website",
+  "version": "1.0.0",
+  "description": "Website for Aseflow - India's First Liquid Protein Shot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protein",
+    "liquid",
+    "shot",
+    "aseflow",
+    "health",
+    "fitness"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemailer": "^6.10.0"
+  }
+}
