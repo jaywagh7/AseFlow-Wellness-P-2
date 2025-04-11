@@ -77,7 +77,7 @@ This website can be deployed on any static web hosting service like:
 - Vercel
 - GitHub Pages
 - AWS S3
-- Firebase Hosting
+- Firebase Hosting.
 
 ## License
 
@@ -90,3 +90,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![Aseflow Website Screenshot](./public/images/SS/2.png)
 ![Aseflow Website Screenshot](./public/images/SS/3.png)
 ![Aseflow Website Screenshot](./public/images/SS/4.png)
+![Aseflow Website Screenshot](./public/images/SS/5.png)
