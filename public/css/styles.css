@@ -103,15 +103,18 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 5%;
+    padding: 1rem 5% 1rem 0;
     position: relative;
 }
 
 .brand-container {
     display: flex;
     align-items: center;
-    gap: 10px; /* reduce or increase spacing */
-    padding-left: 20px; /* optional: avoids sticking too left */
+    gap: 6px; /* Adjust spacing between logo and text */
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 0;
     color: var(--light-color);
     font-size: 1.5rem;
     font-weight: bold;
