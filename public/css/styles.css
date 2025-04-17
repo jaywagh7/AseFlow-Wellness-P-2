@@ -112,7 +112,7 @@ nav {
     align-items: center;
     gap: 6px; /* Adjust spacing between logo and text */
     margin: 0;
-    padding: 0;
+    padding: 0rem 0rem 0rem 2rem;;
     position: relative;
     left: 0;
     color: var(--light-color);
@@ -228,7 +228,7 @@ nav {
     justify-content: space-between;
     padding: 0 5%;
     /* background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%); */
-    background-image: url(/public/images/bg.jpg);
+    background-image: url(/public/images/bg1);
     color: var(--light-color);
 }
 
